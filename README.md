@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrBenLabar
+- 👋 Hi, I’m Benjamin Labar
 - 👀 I’m interested in personal development and learning new things
 - 🌱 I’m currently learning blockchain technology at NITDA
 - 💞️ I’m looking to collaborate on blockchain development in Nigeria
