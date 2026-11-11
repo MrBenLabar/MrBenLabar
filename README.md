@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Benjamin Labar
+- 👋 Hi, I’m Lubem Labar
 - 👀 I’m interested in personal development and learning new things
 - 🌱 I’m currently learning blockchain technology at NITDA
 - 💞️ I’m looking to collaborate on blockchain development in Nigeria
-- 📫 How to reach me ... You can reach me on my email: mrbenlabar@gmail.com LinkedIn: https://www.linkedin.com/in/labar-benjamin-9251a2105
+- 📫 How to reach me ... You can reach me on my email: mrbenlabar@gmail.com LinkedIn:https://www.linkedin.com/in/lubem-labar-9251a2105 
 
 <!---
 MrBenLabar/MrBenLabar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
